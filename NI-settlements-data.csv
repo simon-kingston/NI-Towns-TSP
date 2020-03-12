@@ -1,51 +1,51 @@
 ﻿ID,Settlement,District,County,Population,Latitude,Longitude
-1,Belfast,Belfast,County Antrim / County Down,"280,138",54.596389,-5.93
-2,Derry,Derry City and Strabane,County Londonderry,"83,163",54.9958,-7.3074
-3,Newtownabbey (Metropolitan),Antrim and Newtownabbey,County Antrim,"65,646",54.657,-5.907
-4,Craigavon Urban Area (including Aghacommon),"Armagh City, Banbridge and Craigavon",County Armagh,"64,323",54.447222,-6.388333
-5,Bangor,Ards and North Down,County Down,"61,011",54.66,-5.67
-6,Castlereagh (Metropolitan),Lisburn and Castlereagh,County Down,"55,857",54.5735,-5.88472
-7,Lisburn (City),Lisburn and Castlereagh,County Antrim / County Down,"45,370",54.512,-6.031
-8,Ballymena,Mid and East Antrim,County Antrim,"29,551",54.86,-6.28
-9,Newtownards,Ards and North Down,County Down,"28,050",54.591,-5.68
-10,Carrickfergus,Mid and East Antrim,County Antrim,"27,998",54.716,-5.809
-11,Newry,"Newry, Mourne and Down",County Armagh / County Down,"26,967",54.176,-6.349
-12,Coleraine,Causeway Coast and Glens,County Londonderry,"24,634",55.133,-6.661
-13,Antrim,Antrim and Newtownabbey,County Antrim,"23,375",54.7173,-6.2055
-14,Omagh,Fermanagh and Omagh,County Tyrone,"19,659",54.598,-7.309
-15,Larne,Mid and East Antrim,County Antrim,"18,755",54.851667,-5.813333
-16,Banbridge,"Armagh City, Banbridge and Craigavon",County Down,"16,637",54.348953,-6.269975
-17,Armagh,"Armagh City, Banbridge and Craigavon",County Armagh,"14,777",54.350281,-6.652792
-18,Dungannon,Mid Ulster,County Tyrone,"14,340",54.5,-6.77
-19,Enniskillen,Fermanagh and Omagh,County Fermanagh,"13,823",54.345,-7.64
-20,Strabane,Derry City and Strabane,County Tyrone,"13,172",54.83,-7.47
-21,Limavady,Causeway Coast and Glens,County Londonderry,"12,032",55.053,-6.946
-22,Cookstown,Mid Ulster,County Tyrone,"11,599",54.647,-6.745
-23,Holywood,Ards and North Down,County Down,"11,257",54.636,-5.845
-24,Downpatrick,"Newry, Mourne and Down",County Down,"10,822",54.322,-5.703
-25,Ballymoney,Causeway Coast and Glens,County Antrim,"10,402",55.071,-6.508
-26,Ballyclare,Antrim and Newtownabbey,County Antrim,"9,953",54.751,-5.999
-27,Comber,Ards and North Down,County Down,"9,071",54.544,-5.735
-28,Magherafelt,Mid Ulster,County Londonderry,"8,805",54.75,-6.61
-29,Warrenpoint (including Burren),"Newry, Mourne and Down",County Down,"8,732",54.099095,-6.24899
-30,Portstewart,Causeway Coast and Glens,County Londonderry,"8,003",55.18,-6.711
-31,Newcastle,"Newry, Mourne and Down",County Down,"7,672",54.215,-5.89
-32,Carryduff,Lisburn and Castlereagh,County Down,"6,961",54.509,-5.872
-33,Donaghadee,Ards and North Down,County Down,"6,869",54.63,-5.53
-34,Kilkeel,"Newry, Mourne and Down",County Down,"6,541",54.059,-5.992
-35,Portrush,Causeway Coast and Glens,County Antrim,"6,454",55.20474,-6.65222
-36,Dromore,"Armagh City, Banbridge and Craigavon",County Down,"6,003",54.415,-6.149
-37,Ballynahinch,"Newry, Mourne and Down",County Down,"5,703",54.395,-5.886
-38,Coalisland,Mid Ulster,County Tyrone,"5,682",54.542,-6.694
-39,Greenisland,Mid and East Antrim,County Antrim,"5,486",54.695,-5.857
-40,Ballycastle,Causeway Coast and Glens,County Antrim,"5,237",55.205,-6.258
-41,Crumlin,Antrim and Newtownabbey,County Antrim,"5,140",54.62,-6.23
-42,Randalstown,Antrim and Newtownabbey,County Antrim,"5,126",54.746,-6.306
-43,Moira,Lisburn and Castlereagh,County Down,"4,591",54.48,-6.232
-44,Maghera,Mid Ulster,County Londonderry,"4,220",54.844,-6.673
-45,Hillsborough (including Culcavy),Lisburn and Castlereagh,County Down,"3,952",54.462,-6.083
-46,Whitehead,Mid and East Antrim,County Antrim,"3,802",54.757223,-5.703964
-47,Waringstown,"Armagh City, Banbridge and Craigavon",County Down,"3,683",54.4336,-6.299
-48,Eglinton,Derry and Strabane,County Londonderry,"3,679",55.040397,-7.175047
-49,Tandragee,"Armagh City, Banbridge and Craigavon",County Armagh,"3,486",54.356,-6.415
-50,Culmore,Derry and Strabane,County Londonderry,"3,465",55.05,-7.266667
+1,Belfast,Belfast,Antrim / Down,"280,138",54.596389,-5.93
+2,Londonderry,Derry City and Strabane,Londonderry,"83,163",54.9958,-7.3074
+3,Newtownabbey (Metropolitan),Antrim and Newtownabbey,Antrim,"65,646",54.657,-5.907
+4,Craigavon Urban Area (including Aghacommon),"Armagh City, Banbridge and Craigavon",Armagh,"64,323",54.447222,-6.388333
+5,Bangor,Ards and North Down,Down,"61,011",54.66,-5.67
+6,Castlereagh (Metropolitan),Lisburn and Castlereagh,Down,"55,857",54.5735,-5.88472
+7,Lisburn (City),Lisburn and Castlereagh,Antrim / Down,"45,370",54.512,-6.031
+8,Ballymena,Mid and East Antrim,Antrim,"29,551",54.86,-6.28
+9,Newtownards,Ards and North Down,Down,"28,050",54.591,-5.68
+10,Carrickfergus,Mid and East Antrim,Antrim,"27,998",54.716,-5.809
+11,Newry,"Newry, Mourne and Down",Armagh / Down,"26,967",54.176,-6.349
+12,Coleraine,Causeway Coast and Glens,Londonderry,"24,634",55.133,-6.661
+13,Antrim,Antrim and Newtownabbey,Antrim,"23,375",54.7173,-6.2055
+14,Omagh,Fermanagh and Omagh,Tyrone,"19,659",54.598,-7.309
+15,Larne,Mid and East Antrim,Antrim,"18,755",54.851667,-5.813333
+16,Banbridge,"Armagh City, Banbridge and Craigavon",Down,"16,637",54.348953,-6.269975
+17,Armagh,"Armagh City, Banbridge and Craigavon",Armagh,"14,777",54.350281,-6.652792
+18,Dungannon,Mid Ulster,Tyrone,"14,340",54.5,-6.77
+19,Enniskillen,Fermanagh and Omagh,Fermanagh,"13,823",54.345,-7.64
+20,Strabane,Derry City and Strabane,Tyrone,"13,172",54.83,-7.47
+21,Limavady,Causeway Coast and Glens,Londonderry,"12,032",55.053,-6.946
+22,Cookstown,Mid Ulster,Tyrone,"11,599",54.647,-6.745
+23,Holywood,Ards and North Down,Down,"11,257",54.636,-5.845
+24,Downpatrick,"Newry, Mourne and Down",Down,"10,822",54.322,-5.703
+25,Ballymoney,Causeway Coast and Glens,Antrim,"10,402",55.071,-6.508
+26,Ballyclare,Antrim and Newtownabbey,Antrim,"9,953",54.751,-5.999
+27,Comber,Ards and North Down,Down,"9,071",54.544,-5.735
+28,Magherafelt,Mid Ulster,Londonderry,"8,805",54.75,-6.61
+29,Warrenpoint (including Burren),"Newry, Mourne and Down",Down,"8,732",54.099095,-6.24899
+30,Portstewart,Causeway Coast and Glens,Londonderry,"8,003",55.18,-6.711
+31,Newcastle,"Newry, Mourne and Down",Down,"7,672",54.215,-5.89
+32,Carryduff,Lisburn and Castlereagh,Down,"6,961",54.509,-5.872
+33,Donaghadee,Ards and North Down,Down,"6,869",54.63,-5.53
+34,Kilkeel,"Newry, Mourne and Down",Down,"6,541",54.059,-5.992
+35,Portrush,Causeway Coast and Glens,Antrim,"6,454",55.20474,-6.65222
+36,Dromore,"Armagh City, Banbridge and Craigavon",Down,"6,003",54.415,-6.149
+37,Ballynahinch,"Newry, Mourne and Down",Down,"5,703",54.395,-5.886
+38,Coalisland,Mid Ulster,Tyrone,"5,682",54.542,-6.694
+39,Greenisland,Mid and East Antrim,Antrim,"5,486",54.695,-5.857
+40,Ballycastle,Causeway Coast and Glens,Antrim,"5,237",55.205,-6.258
+41,Crumlin,Antrim and Newtownabbey,Antrim,"5,140",54.62,-6.23
+42,Randalstown,Antrim and Newtownabbey,Antrim,"5,126",54.746,-6.306
+43,Moira,Lisburn and Castlereagh,Down,"4,591",54.48,-6.232
+44,Maghera,Mid Ulster,Londonderry,"4,220",54.844,-6.673
+45,Hillsborough (including Culcavy),Lisburn and Castlereagh,Down,"3,952",54.462,-6.083
+46,Whitehead,Mid and East Antrim,Antrim,"3,802",54.757223,-5.703964
+47,Waringstown,"Armagh City, Banbridge and Craigavon",Down,"3,683",54.4336,-6.299
+48,Eglinton,Derry and Strabane,Londonderry,"3,679",55.040397,-7.175047
+49,Tandragee,"Armagh City, Banbridge and Craigavon",Armagh,"3,486",54.356,-6.415
+50,Culmore,Derry and Strabane,Londonderry,"3,465",55.05,-7.266667
