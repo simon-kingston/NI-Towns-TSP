@@ -1,9 +1,10 @@
 # NI-Towns-TSP
+| ![](https://github.com/simon-kingston/NI-Towns-TSP/blob/master/northern_ireland_thumbnail.jpg) |
+| ------------- |
+| A map produced by NISRA in 2015 showing all towns in Northern Ireland, defined as areas with a population greater than 5,000 |
 
 This app calculate the optimized route between the towns that make up Northern Ireland. stating position and ending position remains same. It gives you a optimized sequence of places to travel so that all places could be covered in minimum distance exactly once.
 
-
-![](https://github.com/simon-kingston/NI-Towns-TSP/blob/master/northern_ireland_thumbnail.jpg)
 
 
 | Settlement  | Population |
