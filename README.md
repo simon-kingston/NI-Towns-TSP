@@ -11,12 +11,11 @@
 
 - The remaining five are divided into towns (large, medium or small), intermediate settlements and villages.
 
-This app calculate the optimized route between the towns that make up Northern Ireland. stating position and ending position remains same. It gives you a optimized sequence of places to travel so that all places could be covered in minimum distance exactly once.
 
 ## Towns by Population
 
 | Settlement  | Population |
-| ------------- | ------------- |
+| :------------- | -------------: |
 | Belfast  | 280,138 |
 | Londonderry | 83,163 |
 | Newtownabbey (Metropolitan) | 65,646 |
@@ -59,6 +58,13 @@ This app calculate the optimized route between the towns that make up Northern I
 | Ballycastle | 5,237 |
 | Crumlin | 5,140 |
 | Randalstown | 5,126 |
+
+## Travelling Salesman Problem
+
+- The travelling salesman problem asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?"
+
+- This app calculate the optimized route between the towns that make up Northern Ireland. stating position and ending position remains same. It gives you a optimized sequence of places to travel so that all places could be covered in minimum distance exactly once.
+
 
 ## Simulated Annealing Implementation
 
