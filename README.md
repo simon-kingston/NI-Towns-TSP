@@ -1,11 +1,19 @@
 # NI-Towns-TSP
+
+## Towns in Northern Ireland
 | ![](https://github.com/simon-kingston/NI-Towns-TSP/blob/master/northern_ireland_thumbnail.jpg) |
 | ------------- |
 | A map produced by NISRA in 2015 showing all towns in Northern Ireland, defined as areas with a population greater than 5,000 |
 
+- A large town has a population of 18,000 plus, a medium town between 10,000 and 18,000 and a small town 5,000 to 10,000 inhabitants.
+
+- Using 2011 Census information, Nisra separates places into seven different categories, with Belfast and Derry in the top two bands for population, at just more than 280,000 and 83,000 respectively.
+
+- The remaining five are divided into towns (large, medium or small), intermediate settlements and villages.
+
 This app calculate the optimized route between the towns that make up Northern Ireland. stating position and ending position remains same. It gives you a optimized sequence of places to travel so that all places could be covered in minimum distance exactly once.
 
-
+## Towns by Population
 
 | Settlement  | Population |
 | ------------- | ------------- |
