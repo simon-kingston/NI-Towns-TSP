@@ -2,7 +2,8 @@ package com.ni.town.tsp.main;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import com.ni.town.tsp.ga.annealing.SimulatedAnnealing;
+
+import com.ni.town.tsp.algorithms.SimulatedAnnealing;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

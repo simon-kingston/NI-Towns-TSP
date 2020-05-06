@@ -1,4 +1,4 @@
-package com.ni.town.tsp.ga.annealing;
+package com.ni.town.tsp.algorithms;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -46,7 +46,6 @@ public class SimulatedAnnealing {
                 log.info("Iteration #{}",i);
             }
         }
-        log.info("Optimised Route");
         currentSolution.getRoute();
         return bestDistance;
     }
