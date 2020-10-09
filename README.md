@@ -68,9 +68,4 @@
 
 ## Simulated Annealing Implementation
 
-## Genetic Algorithm Implementation (WIP)
-
-## Ant Colony Implementation (WIP)
-
-## Greedy Search Implementation (WIP)
 
